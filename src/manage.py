@@ -5,8 +5,6 @@ import sys
 
 # 5555
 # 5555
-# 5555
-# 5555
 
 def main():
     """Run administrative tasks."""

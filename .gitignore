@@ -2,3 +2,6 @@
 # /Startup.code-workspace
 /venv
 /env
+/src/staticfiles/vendors
+
+/local-cdn/

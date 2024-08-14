@@ -1,1 +1,1 @@
-# Django, Stripe, Neon PostgreSQL, TailwindCSS
+# Django, Stripe, Neon PostgreSQL, TailwindCSS.
